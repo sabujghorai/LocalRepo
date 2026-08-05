@@ -178,7 +178,7 @@ nav ul li a:hover{
 .right img:hover{
     transform: scale(1.03);
     box-shadow:
-        0 0 20px #ff7a00,
-        0 0 40px #ff7a00,
-        0 0 80px #ff7a00;
+        0 0 20px #d1a4e9,
+        0 0 40px #6dabe5,
+        0 0 80px #e77878;
 }
